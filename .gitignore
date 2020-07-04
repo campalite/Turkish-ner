@@ -1,0 +1,7 @@
+Models/
+wordvectors/
+__pycache__/
+
+
+topic_modeling.xlsx
+turkish-writings-dataset.csv
